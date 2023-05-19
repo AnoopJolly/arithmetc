@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683895064 source:c:\anoopjolly\arithmeticoperationfilecalling\add.c
+
+1683895222 source:c:\anoopjolly\arithmeticoperationfilecalling\sub.c
+
+1683895479 source:c:\anoopjolly\arithmeticoperationfilecalling\multi.c
+
+1684240649 source:c:\anoopjolly\arithmeticoperationfilecalling\div.c
+
+1684241492 source:c:\anoopjolly\arithmeticoperationfilecalling\main.c
+	<stdio.h>
+	"main.h"
+
+1684240598 c:\anoopjolly\arithmeticoperationfilecalling\main.h
+
