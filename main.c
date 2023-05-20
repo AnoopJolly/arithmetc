@@ -8,6 +8,7 @@ int main()
 
     printf("enter code for Multiplication press 3\nFor addition press 1\nFor substraction press 2\nFor division press 4\n");
     scanf("%d",&g);
+    printtf("shikha verma");
 
     switch (g)
     {
